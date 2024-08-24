@@ -32,32 +32,32 @@ Visualize the clustering results using bar plots and scatter plots to understand
 ### df_reloads
 This dataset contains information on customer reloads with the following columns:
 
-**Subs ID:** Unique identifier for the subscriber (int64)
-**Reload Date:** Date of the reload (int64)
-**Reload ($):** Amount reloaded in dollars (int64)
+- **Subs ID:** Unique identifier for the subscriber (int64)
+- **Reload Date:** Date of the reload (int64)
+- **Reload ($):** Amount reloaded in dollars (int64)
 
 
 ### df_app
 This dataset includes details on customer social media logins and usage:
 
-**subs_id**: Unique identifier for the subscriber (object)
-**total_data_mb:** Total data usage in megabytes (float64)
-**other_app_(mb):** Data usage in megabytes for other apps (float64)
-**facebook_login_(day_count)*:** Number of logins to Facebook per day (float64)
-**twitter_login__(day_count):** Number of logins to Twitter per day (float64)
-**instagram_login_(day_count):** Number of logins to Instagram per day (float64)
-**youtube_login_(day_count):** Number of logins to YouTube per day (float64)
-**whatsapp_login_(day_count):** Number of logins to WhatsApp per day (float64)
-**facebook_monthly_data_mb:** Monthly data usage on Facebook (float64)
-**twitter_monthly_data_mb:** Monthly data usage on Twitter (float64)
-**instagram_monthly_data_mb:** Monthly data usage on Instagram (float64)
-**youtube_monthly_data_mb:** Monthly data usage on YouTube (float64)
-**whatsapp_monthly_data_mb:** Monthly data usage on WhatsApp (float64)
-**facebook_monthly_upload_mb:** Monthly upload data on Facebook (float64)
-**twitter_monthly_upload_mb:** Monthly upload data on Twitter (float64)
-**instagram_monthly_upload_mb:** Monthly upload data on Instagram (float64)
-**youtube_monthly_upload_mb:** Monthly upload data on YouTube (float64)
-**whatsapp_monthly_upload_mb:** Monthly upload data on WhatsApp (float64)
+- **subs_id**: Unique identifier for the subscriber (object)
+- **total_data_mb:** Total data usage in megabytes (float64)
+- **other_app_(mb):** Data usage in megabytes for other apps (float64)
+- **facebook_login_(day_count)*:** Number of logins to Facebook per day (float64)
+- **twitter_login__(day_count):** Number of logins to Twitter per day (float64)
+- **instagram_login_(day_count):** Number of logins to Instagram per day (float64)
+- **youtube_login_(day_count):** Number of logins to YouTube per day (float64)
+- **whatsapp_login_(day_count):** Number of logins to WhatsApp per day (float64)
+- **facebook_monthly_data_mb:** Monthly data usage on Facebook (float64)
+- **twitter_monthly_data_mb:** Monthly data usage on Twitter (float64)
+- **instagram_monthly_data_mb:** Monthly data usage on Instagram (float64)
+- **youtube_monthly_data_mb:** Monthly data usage on YouTube (float64)
+- **whatsapp_monthly_data_mb:** Monthly data usage on WhatsApp (float64)
+- **facebook_monthly_upload_mb:** Monthly upload data on Facebook (float64)
+- **twitter_monthly_upload_mb:** Monthly upload data on Twitter (float64)
+- **instagram_monthly_upload_mb:** Monthly upload data on Instagram (float64)
+- **youtube_monthly_upload_mb:** Monthly upload data on YouTube (float64)
+- **whatsapp_monthly_upload_mb:** Monthly upload data on WhatsApp (float64)
 
 ## Repository Structure
 

@@ -60,9 +60,20 @@ youtube_monthly_upload_mb: Monthly upload data on YouTube (float64)
 whatsapp_monthly_upload_mb: Monthly upload data on WhatsApp (float64)
 
 ## Repository Structure
-### Customer_segmentation_project.ipynb: Jupyter Notebook containing the code for data preprocessing, clustering, and visualization.
-### README.md: This file, providing an overview of the project, its motivation, and instructions for running the analysis.
-### data/: Directory containing the raw datasets (df_reloads and df_app).
+- **Customer_segmentation_project.ipynb:**   Jupyter Notebook containing the code for data preprocessing, clustering, and visualization.
+- **README.md:**  This file, providing an overview of the project, its motivation, and instructions for running the analysis.
+- **data:** Directory containing the raw datasets (df_reloads and df_app).
+  
+- ## Project Repository
+The full project is hosted on GitHub: [Customer-Segmentation Project](https://github.com/asliyalcin/Customer-Segmentation)
+
+### Installation
+
+ **Clone the Repository:**
+    ```bash
+    git clone https://github.com/asliyalcin/Customer-Segmentation
+    cd your_repository
+    ```
 
 ## Results Summary
 The analysis successfully identified distinct customer segments based on behavioral data. The segments were visualized and profiled to provide actionable insights for targeted marketing strategies. The optimal number of clusters was determined using silhouette scores, and the final segments were characterized by unique patterns in customer behavior.

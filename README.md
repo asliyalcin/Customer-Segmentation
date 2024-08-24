@@ -4,7 +4,7 @@
 
 Customer segmentation is a critical element in modern business strategy, allowing companies to target specific customer groups more effectively. This project focuses on segmenting customers based on their behavioral data using clustering techniques. By identifying distinct customer segments, businesses can tailor their marketing efforts, improve customer satisfaction, and enhance overall engagement.
 
-You can visit my medium page for more explanation:  [Customer-Segmentation Project]([https://github.com/asliyalcin/Customer-Segmentation](https://medium.com/@asliyalcnn/mastering-customer-segmentation-with-kmeans-and-agglomerative-clustering-73f76a60d050)) 
+You can visit my medium page for more explanation:  [Customer-Segmentation Project](https://medium.com/@asliyalcnn/mastering-customer-segmentation-with-kmeans-and-agglomerative-clustering-73f76a60d050)) 
 
 ## Project Definition
 The primary goal of this project is to perform customer segmentation using clustering algorithms such as KMeans and Agglomerative Clustering. The project includes analyzing customer data, determining the optimal number of segments, and visualizing the results to gain insights into customer behavior.

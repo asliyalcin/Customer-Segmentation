@@ -84,6 +84,6 @@ The full project is hosted on GitHub: [Customer-Segmentation Project](https://gi
 ## Results Summary
 The analysis successfully identified distinct customer segments based on behavioral data. The segments were visualized and profiled to provide actionable insights for targeted marketing strategies. The optimal number of clusters was determined using silhouette scores, and the final segments were characterized by unique patterns in customer behavior.
 
-## Acknowledgements
+## Resources
 https://medium.com/towards-data-science/mastering-customer-segmentation-with-llm-3d9008235f41
 https://github.com/damiangilgonzalez1995/Clustering-with-LLM/blob/main/kmeans.ipynb

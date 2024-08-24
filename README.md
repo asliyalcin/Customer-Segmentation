@@ -10,14 +10,14 @@ The primary goal of this project is to perform customer segmentation using clust
 ## Analysis
 The analysis involves the following steps:
 
-## Data Preprocessing:
+- ## Data Preprocessing:
 Clean and normalize the data to ensure all features contribute equally to the clustering process.
 
-## Clustering:
+- ## Clustering:
 Apply KMeans and Agglomerative Clustering to identify distinct customer segments.
 Use silhouette scores to evaluate the performance of the clustering algorithms and determine the optimal number of clusters.
 
-## Visualization:
+- ## Visualization:
 Visualize the clustering results using bar plots and scatter plots to understand customer segments and their characteristics.
 
 ## Libraries Used
